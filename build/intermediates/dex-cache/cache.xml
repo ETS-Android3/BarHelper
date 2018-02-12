@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/simon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_d45889520ed46a79692a18f2190f71c5ed0eb2a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_56358eb3a965a4958c14829e936d027e0e995f25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_baefba17f36fecf120b64552b1252212ee123c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_0aac873be27ec485d57218fdee6f1c40186d73a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_06fa3d9b4d03519198f437203d35e5d9bf58e85f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f8374bcea7b10ac97723242cd356e8710309356">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd069e6ece4a2b4c4ec554cc88c40683d7abbf26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_60dab1da7ee95944f45a95172eb5441c56cb9373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_aaa849c1a1506695659e31ddb0b11a3f31ccbbd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6b9a7000811743601d35fd9795c7d18bfbe2c684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_fb5c2bb9d607305f0023ccbb0ac62766ac3d2537/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_6143a25c8dd05a0de3b79a413514d8433532c397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5e004f5bd745973530f556c5aae04a742d31f847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40a411f0f55244e7ad4ea2186b332c665a079d2e">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cbf0fc60e87376259b3eb77117cdd0cfe91edcbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_2e7ad8c87814a6030483de9ff871e3ed49f79445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f0578a303cc8ef095b045ac2491d5851603d8b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_a7ce03d80577c4175b4081b553831b55a106117e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/simon/Documents/BarHelper/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/simon/Documents/BarHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_51ac5e8b501e18ac2acbdcad26966beaa0813726/classes.dex" />
+    </item>
+
+</items>
